@@ -15,6 +15,7 @@
 
 ### Мои последние проекты: 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJwd2J5NTMxcG1heTdpYzFpZXYzMzJnMjRheHY1c3IwZnp4Ym51NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kk7OjsXhTXmpaMxq1y/giphy.gif" width="30px"/> Адаптивное веб-приложение по поиску фильмов (ReactJS) ([**ссылка на сайт**](https://nizovtsev-daniil.github.io/cinema-guide/#/), [**код**](https://github.com/nizovtsev-daniil/cinema-guide));  
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJwd2J5NTMxcG1heTdpYzFpZXYzMzJnMjRheHY1c3IwZnp4Ym51NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kk7OjsXhTXmpaMxq1y/giphy.gif" width="30px"/> Веб-приложение для списка дел "ToDo" (React, Redux Toolkit, TS) ([**ссылка на сайт**](https://nizovtsev-daniil.github.io/todo/), [**код**](https://github.com/nizovtsev-daniil/todo));  
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJwd2J5NTMxcG1heTdpYzFpZXYzMzJnMjRheHY1c3IwZnp4Ym51NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kk7OjsXhTXmpaMxq1y/giphy.gif" width="30px"/> Адаптивная вёрстка сайта для радио (HTML, CSS) ([**ссылка на сайт**](https://nizovtsev-daniil.github.io/w-wave/), [**код**](https://github.com/nizovtsev-daniil/w-wave));  
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJwd2J5NTMxcG1heTdpYzFpZXYzMzJnMjRheHY1c3IwZnp4Ym51NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kk7OjsXhTXmpaMxq1y/giphy.gif" width="30px"/> CRM-система клиентов (Нативный JavaScript) ([**код**](https://github.com/nizovtsev-daniil/crm-skillbus)).
 
